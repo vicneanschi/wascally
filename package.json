@@ -75,7 +75,7 @@
     "machina": "^1.1.2",
     "monologue.js": "^0.3.4",
     "node-uuid": "^1.4.7",
-    "postal": "^1.0.7",
+    "postal": "1.0.7",
     "when": "^3.7.5",
     "whistlepunk": "^0.3.2"
   }
